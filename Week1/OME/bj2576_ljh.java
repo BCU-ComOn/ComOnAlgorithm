@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class bj2576_ljh {
 	public static void main(String[] args) {
 		int[] arr = new int[7];
